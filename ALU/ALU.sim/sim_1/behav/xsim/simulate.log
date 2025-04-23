@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+ADD: 0005 + 0003 = 0008
+SUB: 000a - 0004 = 0006
+AND: 00ff & 0f0f = 000f
+OR: 00f0 | 0f0f = 0fff
+XOR: 00ff ^ 0f0f = 0ff0
+NOT: ~ffff = 0000
+Shift Left: 0001 << 1 = 0002
+Shift Right: 0002 >> 1 = 0001
+$stop called at time : 80 ns : File "C:/Users/student1/Documents/Avinash/ALU/ALU_tb.v" Line 49
