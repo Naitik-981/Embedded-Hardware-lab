@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student1/Documents/Avinash/Lab3/fetch_ckt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fetch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student1/Documents/Avinash/Lab3/fetch_ckt_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fetch_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student1/Documents/Avinash/Lab3/Fetch_ckt/Fetch_ckt.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
