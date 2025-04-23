@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time = 0 | clk = 0 | reset = 0 | d = 0 | q = 0
+Time = 10000 | clk = 0 | reset = 1 | d = 1 | q = 0
+Time = 30000 | clk = 0 | reset = 1 | d = 0 | q = 0
+Time = 50000 | clk = 1 | reset = 1 | d = 1 | q = 1
+Time = 60000 | clk = 1 | reset = 0 | d = 1 | q = 0
+Time = 70000 | clk = 1 | reset = 1 | d = 1 | q = 0
+Time = 100000 | clk = 0 | reset = 1 | d = 0 | q = 0
+$finish called at time : 110 ns : File "C:/Users/student1/Documents/Avinash/Flip_flop/FF_tb.v" Line 26
