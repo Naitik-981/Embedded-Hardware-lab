@@ -1,0 +1,22 @@
+Time resolution is 1 ps
+Time = 0 | clk = 0 | reset = 0 | load = 0 | inc = 0 | d = 0000 | q = 0000
+Time = 50000 | clk = 1 | reset = 0 | load = 0 | inc = 0 | d = 0000 | q = 0000
+Time = 100000 | clk = 0 | reset = 1 | load = 0 | inc = 0 | d = 0000 | q = 0000
+Time = 150000 | clk = 1 | reset = 1 | load = 0 | inc = 0 | d = 0000 | q = 0000
+Time = 200000 | clk = 0 | reset = 1 | load = 1 | inc = 0 | d = 1234 | q = 0000
+Time = 250000 | clk = 1 | reset = 1 | load = 0 | inc = 0 | d = 1234 | q = 0000
+Time = 300000 | clk = 0 | reset = 1 | load = 0 | inc = 0 | d = 1234 | q = 0000
+Time = 350000 | clk = 1 | reset = 1 | load = 0 | inc = 0 | d = 1234 | q = 0000
+Time = 400000 | clk = 0 | reset = 1 | load = 0 | inc = 0 | d = 1234 | q = 0000
+Time = 450000 | clk = 1 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0001
+Time = 500000 | clk = 0 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0001
+Time = 550000 | clk = 1 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0002
+Time = 600000 | clk = 0 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0002
+Time = 650000 | clk = 1 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0003
+Time = 700000 | clk = 0 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0003
+Time = 750000 | clk = 1 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0004
+Time = 800000 | clk = 0 | reset = 1 | load = 0 | inc = 1 | d = 1234 | q = 0004
+Time = 850000 | clk = 1 | reset = 1 | load = 0 | inc = 0 | d = 1234 | q = 0004
+Time = 900000 | clk = 0 | reset = 1 | load = 0 | inc = 0 | d = 1234 | q = 0004
+Time = 950000 | clk = 1 | reset = 0 | load = 0 | inc = 0 | d = 1234 | q = 0000
+Time = 1000000 | clk = 0 | reset = 0 | load = 0 | inc = 0 | d = 1234 | q = 0000
