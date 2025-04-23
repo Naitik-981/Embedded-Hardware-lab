@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student1/Documents/Avinash/Full_adder/FA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/student1/Documents/Avinash/Full_adder/FA_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa_tb
